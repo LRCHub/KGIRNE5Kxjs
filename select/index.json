@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "はじまりの速度",
+  "base_artist": "三月のパンタシア",
+  "createdAt": "2026-02-21T19:54:37.864549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "はじまりの速度",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/01_はじまりの速度_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "はじまりの速度",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/02_はじまりの速度_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "はじまりの速度",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": false,
+      "path": "select/03_はじまりの速度_Sangatsu_no_Phantasia.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "はじまりの速度",
+      "artist": "三月のパンタシア",
+      "has_synced": true,
+      "path": "select/04_はじまりの速度_三月のパンタシア.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はじまりの速度",
+      "artist": "三月のパンタシア",
+      "has_synced": false,
+      "path": "select/pl_01_はじまりの速度_三月のパンタシア.txt"
+    }
+  ]
+}
